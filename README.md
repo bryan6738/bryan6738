@@ -159,4 +159,4 @@ I am a senior programmer with 6 years of experience in full stack development fo
 <hr>
 <br>
 
-Here is my [eMail](mailto:stefannaumoski21@gmail.com?Subject=Hello!) and [Skype](https://join.skype.com/invite/zYD6Rvcpjv19).
+//Here is my [eMail](mailto:stefannaumoski21@gmail.com?Subject=Hello!) and [Skype](https://join.skype.com/invite/zYD6Rvcpjv19).
