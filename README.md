@@ -1,6 +1,6 @@
-# CodeWorld
+# ERWIN
 <div align="center">
-<img src="https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png" alt="Code World">
+<img src="https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png" alt="Erwin Bryan">
 </div>
 <br>
 
