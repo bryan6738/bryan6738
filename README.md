@@ -7,15 +7,14 @@
 <hr>
 <br>
 
-
-I am a senior programmer with 6 years of experience in full stack development focused in Python and React.js. Now I am focused on Python, AI technologies as well as web/mobile programming using Node.js/React.js, Vue.js. Many projects I have done as a full-stack developer because when it's small or medium, I can provide fast pace and clean result. I like a positive or neutral emotional state in working, I like clearly defined goals. When it's not well decided, I often can provide my expertness in web-development to help a customer choose a set of features, or make more effective infrastructure. 
+I'm Erwin Bryan, an AI Engineer and Web Developer passionate about advanced technology. I specialize in developing AI systems, integrating GPT models, and performing data analysis. My skills also include AI integration, natural language processing (NLP), computer vision, and web development. I love working on diverse projects and am dedicated to delivering high-quality results.
 
 <h4 align="center">🔥 My Stacks 🔥</h4>
 <hr>
 <br>
 
-- 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) )
-- 🥇 Backend Development: [Ruby on Rails](https://thegraph.com/) [Node.js](https://nodejs.org), [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/)
+- 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) )
+- 🥇 Backend Development: [Node.js](https://nodejs.org), [Django](https://www.djangoproject.com/), [Laravel](https://laravel.com/)
 - 🥇 Hybrid Mobile App Development: [React-Native](https://reactjs.org/)
 - 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
 - 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
@@ -158,5 +157,3 @@ I am a senior programmer with 6 years of experience in full stack development fo
 </p>
 <hr>
 <br>
-
-Here is my [eMail](mailto:erwinbryan673@hotmail?Subject=Hello!) and [Skype](https://join.skype.com/invite).
