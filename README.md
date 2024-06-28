@@ -16,7 +16,7 @@ I'm Erwin Bryan, an AI Engineer and Web Developer passionate about advanced tech
 - 🥇 AI & Machine Learning: [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Keras](https://keras.io/), [OpenAI](https://openai.com/)
 - 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/)
 - 🥇 Backend Development: [Node.js](https://nodejs.org), [Django](https://www.djangoproject.com/), [Laravel](https://laravel.com/)
-- 🥈 Automation & Data science: [Python](https://www.python.org/), [Selenium](https://www.selenium.dev/)
+- 🥈 Automation & Data science: [Python](https://www.python.org/), [Selenium](https://www.selenium.dev/), [Puppeteer](https://pptr.dev/)
 - 🥈 Hybrid Mobile App Development: [React-Native](https://reactjs.org/)
 - 🥈 DevOps: [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Docker](https://www.docker.com/)
 - 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
