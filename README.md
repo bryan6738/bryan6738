@@ -159,4 +159,4 @@ I'm Erwin Bryan, an AI Engineer and Web Developer passionate about advanced tech
 </p>
 <hr>
 <br>
-Feel free to [contact me](https://wa.me/+639460053371) if you need my help.
+<p>Feel free to <a href="https://wa.me/+639460053371">contact me</a> if you need my help.</p>
