@@ -1,6 +1,6 @@
 # SKY
 <div align="center">
-<img src="https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png" alt="Erwin Bryan">
+<img src="https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png" alt="Blake Morgan">
 </div>
 <br>
 
@@ -159,4 +159,4 @@ I'm Blake Morgan, an Python Engineer and Web Developer passionate about advanced
 </p>
 <hr>
 <br>
-<p>Feel free to <a href="https://wa.me/+639460053371">contact me</a> if you need my help.</p>
+<p>Feel free to <a href="https://wa.me/+17634616278">contact me</a> if you need my help.</p>
