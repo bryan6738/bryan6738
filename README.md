@@ -1,4 +1,4 @@
-# SKY
+# Blake Morgan
 <div align="center">
 <img src="https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png" alt="Blake Morgan">
 </div>
