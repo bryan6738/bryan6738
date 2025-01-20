@@ -1,4 +1,4 @@
-# Erwin Bryan Saavedra
+# SKY
 <div align="center">
 <img src="https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png" alt="Erwin Bryan">
 </div>
@@ -7,7 +7,7 @@
 <hr>
 <br>
 
-I'm Erwin Bryan, an AI Engineer and Web Developer passionate about advanced technology. I specialize in developing AI systems, integrating GPT models, and performing data analysis. My skills also include AI integration, natural language processing (NLP), computer vision, and web development. I love working on diverse projects and am dedicated to delivering high-quality results.
+I'm Blake Morgan, an Python Engineer and Web Developer passionate about advanced technology. I specialize in developing AI systems, integrating GPT models, and performing data analysis. My skills also include AI integration, natural language processing (NLP), computer vision, and web development. I love working on diverse projects and am dedicated to delivering high-quality results.
 
 <h4 align="center">🔥 My Stacks 🔥</h4>
 <hr>
